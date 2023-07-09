@@ -1,0 +1,7 @@
+googletrans==3.1.0a0
+fastapi
+requests
+torch 
+nltk
+
+#DPgNgzKf_DDKp8X9VZeMYFSXBYbFuRcpUNMYiUZFJ
